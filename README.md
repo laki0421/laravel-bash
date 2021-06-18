@@ -1,6 +1,11 @@
 # laravel-bash
 
-Laravel setup automation bash script for the amazon linux 2 OS. following package install with script.<br/>
+Laravel setup automation bash script for the amazon linux 2 OS. following package install with script.This will get following user input<br/>
+
+domain name<br/>
+Project of git file<br/>
+mysql endpoint (*if using manage sql version)<br/>
+mysql root password<br/>
 
 Nginx-latest<br/>
 PHP7.4<br/>
